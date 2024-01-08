@@ -16,3 +16,12 @@ java Unit01.Topic1_1.Main
 ```
 
 Sorry about the more complicated syntax for running the code from the command line; it's a necessary Java thing if you're going to keep your code organized in a big repository like this.
+
+## Notes
+System.out.print does not move the program to the next line
+System.out.println does move the program to the next line
+The class name must match the file name
+Class Declaration" Identifies the name, start, and the end of the class.
+System.out.println: Displays whatever is in the () on the screen, then moves the cursor to the next line.
+int: Integer
+boolean: True/False
