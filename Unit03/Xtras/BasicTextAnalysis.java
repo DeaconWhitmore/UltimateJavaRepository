@@ -1,8 +1,25 @@
 package Unit03.Xtras;
 
+import java.util.Scanner;
+
 public class BasicTextAnalysis {
     public static void main(String[] args) {
+        
+        Scanner words = new Scanner(System.in);
+        words.useDelimiter("\\Z");
+        String userwords = words.next();
 
+        int totallength = (userwords.length()) + 1;
+
+        int firstwordindex = userwords.indexOf(" ");
+        String firstword = (userwords.substring(0, firstwordindex));
+
+        int firstsentenceindex = userwords.indexOf(".");
+        String firstsentence = (userwords.substring(0, firstsentenceindex));
+
+        System.out.print("Your text is " + totallength + " characters long.");
+        System.out.print(" Your text's first word is " + firstword + ".");
+        System.out.print(" Your text's first sentence is " + firstsentence + ".");
     }
 }
 
