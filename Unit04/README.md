@@ -1,11 +1,11 @@
 # Unit 4 - Iteration
 
 ## 4.1 - `while` Loops
-Done on the online readme Saturday
+
 ## 4.2 - `for` Loops
-Done on the online readme Saturday
+
 ## 4.3 - Developing Algorithms Using Strings
-Done on the online readme Saturday
+
 ## 4.4 - Nested Iteration
 
 Nested Iteration is where there are loops contained within loops.
