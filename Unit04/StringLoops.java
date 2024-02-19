@@ -47,14 +47,20 @@ public class StringLoops {
     }
 
     public static String doubleChar(String str) {
+        String result = "";
 
-        Scanner doubleChar = new Scanner(System.in);
-        String doubleCharinput = doubleChar.next();
-        int stopdouble = doubleChar.length();
+        int totaldouble = str.length();
+        int startdouble = 0;
 
-        
+        while(totaldouble > 0){
+            result = result + str.substring(startdouble, startdouble + 1);
+            result = result + str.substring(startdouble, startdouble + 1);
 
-        return "";
+            startdouble++;
+            totaldouble--;
+        }
+
+        return result;
     }
 
     public static int countCode(String str) {
@@ -103,5 +109,10 @@ public class StringLoops {
 
     public static String repeatSeparator(String word, String sep, int count) {
         return "";
+    }
+
+    public static void main(String[] args) {
+        String doubled = doubleChar("hello");
+        System.out.println(doubled);
     }
 }
