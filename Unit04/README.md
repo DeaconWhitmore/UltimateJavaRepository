@@ -2,9 +2,15 @@
 
 ## 4.1 - `while` Loops
 
+While loops are loops designed to continue until a specific condition is true.
+
 ## 4.2 - `for` Loops
 
+For loops are loops that can hold variable information and parameters.
+
 ## 4.3 - Developing Algorithms Using Strings
+
+Use methods like .equals, .substring, and .length to maximize efficiency in loops.
 
 ## 4.4 - Nested Iteration
 
