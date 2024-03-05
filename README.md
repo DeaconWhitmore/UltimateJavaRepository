@@ -104,6 +104,13 @@
 - [5.9 this Keyword](Unit05/Topic5_9ThisKeyword.java)
 - [5.10 Ethical and Social Implications of Computing Systems](Unit05/Topic5_10EthicalAndSocialImplicationsOfComputingSystems.java)
 
+### [Unit 6 - Array](Unit06/README.md)
+
+- [6.1 - Array Creation and Access](Unit06/Topic6_1ArrayCreationAndAccess.java)
+- [6.2 - Traversing Arrays](Unit06/Topic6_2TraversingArrays.java)
+- [6.3 - Enhanced for Loop for Arrays](Unit06/Topic6_3EnhancedForLoopForArrays.java)
+- [6.4 - Developing Algorithms Using Arrays](Unit06/Topic6_4DevelopingAlgorithmsUsingArrays.java)
+
 ## Course Calendar
 
 <<<<<<< HEAD
@@ -132,7 +139,6 @@
 | **19** <br> Unit 4 FRQ Progress Check                                  | **20** <br> Videos & MCQ on 5.1 <br> Videos & MCQs on 5.2 <br> Videos & MCQs on 5.3 | **21** <br> _Videos & MCQ on 5.4 <br> Videos & MCQ on 5.5_   | **22** <br> CONFERENCES                                            | **23** <br> NO SCHOOL                                                 |
 | **26** <br> _Videos & MCQ on 5.6 <br> Videos & MCQ on 5.7_             | **27** <br> PRE-ACT & ACT TESTING                                                   | **28** <br> _Videos & MCQ on 5.8 <br> Videos & MCQ on 5.9_   | **29** <br> _FRQs on 5.5 & 5.8 <br> Video on 5.10_                 | **1st Mar** <br> _Unit 5 MCQ Progress Check_                          |
 | **4** <br> _Unit 5 FRQ Progress Check_                                 | **5** <br>                                                                          | **6**                                                        | **7**                                                              | **8** SPRING BREAK                                                    |
->>>>>>> 1994328a476559f8ece637e8d5f869b58a577f68
 
 ## Gradebook Categories
 
