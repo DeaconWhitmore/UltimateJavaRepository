@@ -26,34 +26,6 @@
 
 ### Unit 1 - Primitive Types
 
-<<<<<<< HEAD
-- 1.1 Why Programming? Why Java?
-- 1.2 Variables and Data Types
-- 1.3 Expressions and Assignment Statements
-- 1.4 Compound Assignment Operators
-- 1.5 Casting and Ranges of Variables
-- Xtras: Command Line Arguments
-
-### Unit 2 - Using Objects
-
-- 2.1 Objects - Instances of Classes
-- 2.2 Creating and Storing Objects (Instantiation)
-- 2.3 Calling a Void Method
-- 2.4 Calling a Void Method with Parameters
-- 2.5 Calling a Non-void Method
-- 2.6 String Objects - Concatenation, Literals, and More
-- 2.7 String Methods
-- 2.8 Wrapper Classes - Integer and Double
-- 2.9 Using the Math Class
-- Xtras: 
-    - `Scanner` for user input
-    - GUI calculator with JavaFX or Swing?
-    - Java2D API for doing basic shapes etc
-    - `java.time` for dates and times
-    - `java.awt.Color` for colors and `java.awt.Font` for fonts
-    - `java.awt.geom` for shapes
-    - `java.net.URL` and `java.net.URI` for URLs
-=======
 - [1.1 Why Programming? Why Java?](Unit01/Topic1_1/README.md)
 - [1.2 Variables and Data Types](Unit01/Topic1_2/README.md)
 - [1.3 Expressions and Assignment Statements](Unit01/Topic1_3/README.md)
@@ -81,7 +53,6 @@
 - [3.5 Compound Boolean Expressions](Unit03/Topic3_5/README.md)
 - [3.6 Equivalent Boolean Expressions](Unit03/Topic3_6/README.md)
 - [3.7 Comparing Objects](Unit03/Topic3_7/README.md)
->>>>>>> 2e71c3e8e2e35f81a91789f68ae31a36f53dae90
 
 ### [Unit 4 - Iteration](Unit04/README.md)
 
