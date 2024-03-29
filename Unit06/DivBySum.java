@@ -14,7 +14,7 @@ public class DivBySum {
         // enhanced for loop
         for(int n : arr){
             if(n % num == 0){
-                total += n;
+                System.out.print(n);
             }
         }
         
